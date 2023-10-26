@@ -7,7 +7,7 @@ Welcome to Pathfinding Visualizer! I built this application because I was fascin
 Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a weighted graph, which may represent, for example, road networks. For a given source node in the graph, the algorithm finds the shortest path between that node and every other. It can also be used for finding the shortest paths from a single node to a single destination node by stopping the algorithm once the shortest path to the destination node has been determined.
 
 ## Tutorial of Project
-start node = green node
+- start node = green node
 end node = red node
 yellow = shortest path 
 blue = visited nodes
