@@ -8,9 +8,9 @@ Dijkstra's algorithm is an algorithm for finding the shortest paths between node
 
 ## Tutorial of Project
 - start node = green node
-end node = red node
-yellow = shortest path 
-blue = visited nodes
-black = wall
+- end node = red node
+- yellow = shortest path 
+- blue = visited nodes
+- black = wall
 
 This visualization of dijkstra shows the shortest path to the start and end node shown on the grid. Click on any part of the grid to create wall then click the visualize button to start the animation which will go around the wall and spread out until it reaches the end node. Finally showing the shortest path as the yellow nodes. 
